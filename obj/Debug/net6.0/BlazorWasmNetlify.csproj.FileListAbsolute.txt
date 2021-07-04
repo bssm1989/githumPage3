@@ -1,7 +1,4 @@
 C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
-C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\dist\web.config
-C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\dist\wwwroot\sample-data\weather.json
-C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\dist\wwwroot\_framework\blazor.boot.json
 C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\BlazorWasmNetlify.StaticWebAssets.xml
 C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\BlazorWasmNetlify.dll
 C:\Users\bssm2020\Desktop\gihhub3\bin\Debug\net6.0\ref\BlazorWasmNetlify.dll
