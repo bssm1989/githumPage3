@@ -1284,4 +1284,4 @@ C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.csproj.Co
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.dll
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\ref\BlazorWasmNetlify.dll
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.pdb
-C:\Users\bssm2020\Desktop\gihhub3\obj\release\net6.0\build-gz\+SjLxAsN.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\V2z60R2S.gz
