@@ -1,0 +1,1290 @@
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\BlazorWasmNetlify.StaticWebAssets.xml
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\ref\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\BlazorWasmNetlify.pdb
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\BlazorWasmNetlify.pdb
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\pinvoke.h.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\binding_support.js.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\corebindings.c.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet_support.js.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\driver.c.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\emcc-flags.txt.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\emcc-version.txt.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\library_mono.js.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\pal_random.js.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\pinvoke.c.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet.6.0.0-preview.5.21301.5.js.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\pinvoke.h
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\binding_support.js
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\corebindings.c
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet_support.js
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\driver.c
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\emcc-flags.txt
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\emcc-version.txt
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\library_mono.js
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\pal_random.js
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\pinvoke.c
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\release\net6.0\wwwroot\_framework\dotnet.6.0.0-preview.5.21301.5.js
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.csproj.AssemblyReference.cache
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.AssemblyInfoInputs.cache
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.AssemblyInfo.cs
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.csproj.CoreCompileInputs.cache
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\63RMMyj3.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\+mRYLXQX.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\hqnN1zN8.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\8abUvBGT.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\VYj7l+XO.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\aEBKJ7tS.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Q4DURjA+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\OJoZmf+s.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\uAK2irFV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\ZbTFqN3r.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\53dEkWMc.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\A+it+Lno.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\HcxC4Huj.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\cnnkWPxU.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\5LNuOsbI.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\YhD+eEDN.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\56jR+IF7.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\MWv6Xmm+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\PhScaWv+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\H3mpfKrz.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\28g6GKrK.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\b+ucriv0.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\kV3C4G1a.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\E8EjOpiI.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\FU3UJluz.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\0X2Zd5hJ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\WGWd9cvL.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\ZpwcTrtr.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\r8UKsvZz.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\JEp4MG8+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\4r8tVABx.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\a1+A0d8z.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\wLl+K+kU.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\7rGDF54N.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\HQRQS7Ug.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\063lLau2.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\zthG9hRx.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\eMlFXrjM.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\dRYFWVk5.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Fialynpl.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\rcFvAJHQ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\qRSVFj0H.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\xYHwod3T.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\25t2U7q5.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\StJLGq5h.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\XUlb7ohG.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\aLDJ92Qo.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\+OQQEdgm.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\6JYCrPti.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\DXWNOGqu.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\mfEdhXtC.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\GvmTpJsR.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Ko+gb4K6.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\621ZpGMu.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\GA9aUclF.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\xZOTndjU.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\meMJWakd.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\F1hDhlRd.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\iJWyvPoe.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\98GaK6pt.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\cif5sqjD.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\rxghZ1Rs.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\245qHugg.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\S8n4MSeQ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\louZkjjm.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\GE1GSUmH.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\z+0CKX9D.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\LNzpxQty.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\H2tW7p7+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\exjDt+d+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\7dnwRAfI.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\hdldGGHx.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\AKlBy20V.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Z213XsRY.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\TIgjl3VV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\EXg4+P7y.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\XWa5c1cl.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\D++uBtj7.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\NKQp2GUd.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\tmA91thh.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\lHFOHpj5.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\LDWihwQI.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\rH2mXCsb.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\4NRM+RQR.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\6iHlFtdj.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Ng89i0Nk.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\qg7y8owb.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\I+u+adt+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Nidpdgq0.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\vjITrAj3.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\YQkVY57y.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\2IDRP40+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\qwRQ14F6.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\xVFNoCV+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\cLWjNgfV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\qe7+IvDo.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\gBowDPx6.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\K1NA6esJ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\vzDm12Uj.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\vAdQ9Xv+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\heqyyroC.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\cukxvEOe.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\efZqv5OC.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\CEF1KjDh.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\8BCJxsdx.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\GkJxAXEg.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\BNcfMMrU.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\raePiu5Y.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\3FRtfydM.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\8jPGlbZ7.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\GWF7eSMV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\KP3lgDT6.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\7WNLxCGg.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Z06kKzVW.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\AhzsXuRT.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\JPlT9DfF.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\rpwDNEHV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\E7xrp1xC.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\yaDR1m3Y.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\yizoCzta.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\fOnRVlhx.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\w8fmXN42.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\h3vGkizA.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Art3Dz0N.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\vLtw9xpx.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Vuu9AFh8.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\d0K2pJ+R.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\28YGcsPS.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\29++Ps9t.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\lUn+t9CU.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\xJ8cM9IJ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\jQNf8Hl9.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\+6K2hUd5.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\jIfRRaCS.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\O+78wRvn.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\fVZSD7IH.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\j7Lr0d6Y.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Gw+cZSrA.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\meibTDmv.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\qbTANLP+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\nHeNR4+p.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\QXdbwd5i.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\OLcAwSSP.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\mcHYgCct.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\t7GkZidh.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\ZV78+jv+.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\wuapdDkB.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Rm3Vr3+Z.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\BzlgsL8w.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\YZbQz1Lt.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\lwk48wIT.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\t9rq2DUV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\+P6JsfaF.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\9fxJpS36.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\rWuq+8OQ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\F5b8N0MF.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\NGvsYtxk.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\KERW+VM8.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\l3WypQNv.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\tmch8ytH.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\4bcR7kBp.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\9G5+u7Nv.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\uhkXEzj7.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\rSutgZ+l.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\nU6CW9m7.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\7oReLWhW.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\8QAwxvMc.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\R85ykqUM.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\t0OmYNLE.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Mw52DEwG.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\EYDAQBJw.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\kk1VdUPW.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\1u1466Pm.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\a0KXOGEL.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\z8u1MhRp.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\qC3qGO0S.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\uxM40dkU.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\RAhscMzy.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\lpYjOf+2.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\HyYwTfAB.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\0iK+17gs.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\EjiOgpLT.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\niXnMzWQ.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Z+Rv71kC.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\9YlFSsc9.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\NeYfJoMT.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\eBVoQ1A1.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\6r6ICP+d.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\ezv2t1+2.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\yaq+4V6Y.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\AMko9wkV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Zly1imQN.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\1nCJtfec.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Rj1c8la7.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\vL6fhQix.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\FIPJJ4+3.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\m+N6ln+o.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\NJTS+lMV.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\KvdeIfq9.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\806eGTKi.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\dIkhiYvm.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\FLpcDC0U.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\z6gkdqBr.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\2Rxscqyk.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\build-gz\Jl0uog1U.gz
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\staticwebassets\BlazorWasmNetlify.StaticWebAssets.Manifest.cache
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\staticwebassets\BlazorWasmNetlify.StaticWebAssets.xml
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\scopedcss\bundle\BlazorWasmNetlify.styles.css
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\scopedcss\projectbundle\BlazorWasmNetlify.bundle.scp.css
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.csproj.CopyComplete
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\ref\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\release\net6.0\BlazorWasmNetlify.pdb
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\Release\net6.0\dist\web.config
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\Release\net6.0\dist\wwwroot\sample-data\weather.json
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\Release\net6.0\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\Release\net6.0\build-gz\k3ltH1XM.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\dist\web.config
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\dist\wwwroot\sample-data\weather.json
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\BlazorWasmNetlify.StaticWebAssets.xml
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\ref\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\BlazorWasmNetlify.pdb
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\BlazorWasmNetlify.pdb
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\pinvoke.h.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\binding_support.js.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\corebindings.c.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet_support.js.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\driver.c.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\emcc-flags.txt.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\emcc-version.txt.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\library_mono.js.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\pal_random.js.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\pinvoke.c.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet.6.0.0-preview.5.21301.5.js.gz
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\pinvoke.h
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\binding_support.js
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\corebindings.c
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet_support.js
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\driver.c
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\emcc-flags.txt
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\emcc-version.txt
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\library_mono.js
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\pal_random.js
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\pinvoke.c
+C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\dotnet.6.0.0-preview.5.21301.5.js
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.csproj.AssemblyReference.cache
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.AssemblyInfoInputs.cache
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.AssemblyInfo.cs
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.csproj.CoreCompileInputs.cache
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\63RMMyj3.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\+mRYLXQX.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\hqnN1zN8.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\8abUvBGT.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\VYj7l+XO.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\aEBKJ7tS.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Q4DURjA+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\OJoZmf+s.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\uAK2irFV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\ZbTFqN3r.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\53dEkWMc.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\A+it+Lno.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\HcxC4Huj.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\cnnkWPxU.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\5LNuOsbI.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\YhD+eEDN.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\56jR+IF7.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\MWv6Xmm+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\PhScaWv+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\H3mpfKrz.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\28g6GKrK.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\b+ucriv0.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\kV3C4G1a.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\E8EjOpiI.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\FU3UJluz.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\0X2Zd5hJ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\WGWd9cvL.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\ZpwcTrtr.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\r8UKsvZz.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\JEp4MG8+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\4r8tVABx.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\a1+A0d8z.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\wLl+K+kU.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\7rGDF54N.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\HQRQS7Ug.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\063lLau2.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\zthG9hRx.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\eMlFXrjM.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\dRYFWVk5.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Fialynpl.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\rcFvAJHQ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\qRSVFj0H.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\xYHwod3T.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\25t2U7q5.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\StJLGq5h.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\XUlb7ohG.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\aLDJ92Qo.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\+OQQEdgm.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\6JYCrPti.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\DXWNOGqu.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\mfEdhXtC.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\GvmTpJsR.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Ko+gb4K6.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\621ZpGMu.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\GA9aUclF.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\xZOTndjU.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\meMJWakd.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\F1hDhlRd.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\iJWyvPoe.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\98GaK6pt.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\cif5sqjD.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\rxghZ1Rs.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\245qHugg.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\S8n4MSeQ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\louZkjjm.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\GE1GSUmH.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\z+0CKX9D.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\LNzpxQty.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\H2tW7p7+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\exjDt+d+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\7dnwRAfI.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\hdldGGHx.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\AKlBy20V.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Z213XsRY.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\TIgjl3VV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\EXg4+P7y.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\XWa5c1cl.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\D++uBtj7.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\NKQp2GUd.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\tmA91thh.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\lHFOHpj5.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\LDWihwQI.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\rH2mXCsb.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\4NRM+RQR.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\6iHlFtdj.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Ng89i0Nk.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\qg7y8owb.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\I+u+adt+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Nidpdgq0.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\vjITrAj3.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\YQkVY57y.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\2IDRP40+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\qwRQ14F6.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\xVFNoCV+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\cLWjNgfV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\qe7+IvDo.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\gBowDPx6.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\K1NA6esJ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\vzDm12Uj.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\vAdQ9Xv+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\heqyyroC.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\cukxvEOe.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\efZqv5OC.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\CEF1KjDh.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\8BCJxsdx.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\GkJxAXEg.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\BNcfMMrU.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\raePiu5Y.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\3FRtfydM.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\8jPGlbZ7.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\GWF7eSMV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\KP3lgDT6.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\7WNLxCGg.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Z06kKzVW.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\AhzsXuRT.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\JPlT9DfF.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\rpwDNEHV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\E7xrp1xC.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\yaDR1m3Y.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\yizoCzta.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\fOnRVlhx.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\w8fmXN42.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\h3vGkizA.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Art3Dz0N.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\vLtw9xpx.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Vuu9AFh8.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\d0K2pJ+R.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\28YGcsPS.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\29++Ps9t.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\lUn+t9CU.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\xJ8cM9IJ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\jQNf8Hl9.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\+6K2hUd5.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\jIfRRaCS.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\O+78wRvn.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\fVZSD7IH.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\j7Lr0d6Y.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Gw+cZSrA.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\meibTDmv.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\qbTANLP+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\nHeNR4+p.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\QXdbwd5i.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\OLcAwSSP.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\mcHYgCct.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\t7GkZidh.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\ZV78+jv+.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\wuapdDkB.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Rm3Vr3+Z.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\BzlgsL8w.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\YZbQz1Lt.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\lwk48wIT.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\t9rq2DUV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\+P6JsfaF.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\9fxJpS36.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\rWuq+8OQ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\F5b8N0MF.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\NGvsYtxk.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\KERW+VM8.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\l3WypQNv.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\tmch8ytH.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\4bcR7kBp.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\9G5+u7Nv.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\uhkXEzj7.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\rSutgZ+l.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\nU6CW9m7.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\7oReLWhW.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\8QAwxvMc.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\R85ykqUM.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\t0OmYNLE.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Mw52DEwG.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\EYDAQBJw.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\kk1VdUPW.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\1u1466Pm.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\a0KXOGEL.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\z8u1MhRp.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\qC3qGO0S.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\uxM40dkU.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\RAhscMzy.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\lpYjOf+2.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\HyYwTfAB.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\0iK+17gs.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\EjiOgpLT.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\niXnMzWQ.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Z+Rv71kC.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\9YlFSsc9.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\NeYfJoMT.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\eBVoQ1A1.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\6r6ICP+d.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\ezv2t1+2.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\yaq+4V6Y.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\AMko9wkV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Zly1imQN.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\1nCJtfec.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Rj1c8la7.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\vL6fhQix.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\FIPJJ4+3.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\m+N6ln+o.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\NJTS+lMV.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\KvdeIfq9.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\806eGTKi.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\dIkhiYvm.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\FLpcDC0U.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\z6gkdqBr.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\2Rxscqyk.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Jl0uog1U.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\V2z60R2S.gz
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\staticwebassets\BlazorWasmNetlify.StaticWebAssets.Manifest.cache
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\staticwebassets\BlazorWasmNetlify.StaticWebAssets.xml
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\scopedcss\bundle\BlazorWasmNetlify.styles.css
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\scopedcss\projectbundle\BlazorWasmNetlify.bundle.scp.css
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.csproj.CopyComplete
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\ref\BlazorWasmNetlify.dll
+C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.pdb

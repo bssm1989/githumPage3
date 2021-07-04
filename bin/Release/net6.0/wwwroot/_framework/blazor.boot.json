@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "WebApplication3.Client",
+  "entryAssembly": "BlazorWasmNetlify",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -196,13 +196,11 @@
       "mscorlib.dll": "sha256-JjpWWSt5AKZG0LP6tlMvr3yVWBRU\/nKTJCCV0f4ITQ0=",
       "netstandard.dll": "sha256-UhwlirAmkMLZprhPMhlJHp7dSdGeLRPGRoosSEPnlvE=",
       "System.Private.CoreLib.dll": "sha256-0YPPUqauxCc3Hb+5rpYMAafcSq4Ylic0p+yIFlBy0y8=",
-      "WebApplication3.Shared.dll": "sha256-DmL8zu74ZfxHRm+CNB0VXFRxg7U9loMjqnC0NeLdH8k=",
-      "WebApplication3.Client.dll": "sha256-uaJUC4MVJ7QBDp\/jQolioCHXP8hSt5TN+2S\/l3YjJrU="
+      "BlazorWasmNetlify.dll": "sha256-zpmCRL9dY0PaZDDPiZMkTkU\/kyu0ibeeX8amznWMWRw="
     },
     "lazyAssembly": null,
     "pdb": {
-      "WebApplication3.Shared.pdb": "sha256-\/B5ULacSJg6h\/jGFfmMraL0bIjfWPcit1z47zRp5Cvc=",
-      "WebApplication3.Client.pdb": "sha256-lmo7o8cQyfMw3XwkM6rHxO93Ph99gJQ6a+1aL+F4JG0="
+      "BlazorWasmNetlify.pdb": "sha256-HCtz1E3gq7RN+sf3nYjpOyUfPKynumP+u9Z8zYil7Bo="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-DT+Tq5B0Vc7r6buKSVk1Z+fe05Nss8o6ToOntqgvJqs=",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oD3PpXLsj9uMUy0asw+jGFGEovT2PATgW6MykcfAHb3pF3IVex8M5ueEsaBkKRLJSb8L6LSVHIrmS5iR+4CpBg==",
+  "dgSpecHash": "GBQhrUHAj9JLoPeBd/wI+J3svSdO1KiQmKI8AveNqaSP/NNnvhtByKyb5IzvAcYIaun53LiSC0SN9c2iEQqVmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bssm2020\\source\\repos\\WebApplication3\\WebApplication3\\Client\\WebApplication3.Client.csproj",
+  "projectFilePath": "C:\\Users\\bssm2020\\Desktop\\gihhub3\\BlazorWasmNetlify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bssm2020\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0-preview.5.21301.17\\microsoft.aspnetcore.authorization.6.0.0-preview.5.21301.17.nupkg.sha512",
     "C:\\Users\\bssm2020\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0-preview.5.21301.17\\microsoft.aspnetcore.components.6.0.0-preview.5.21301.17.nupkg.sha512",
