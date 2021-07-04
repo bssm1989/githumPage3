@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\bssm2020\Desktop\gihhub3\bin\release\net6.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\bssm2020\Desktop\gihhub3\obj\release\net6.0\scopedcss\bundle\" />
 </StaticWebAssets>

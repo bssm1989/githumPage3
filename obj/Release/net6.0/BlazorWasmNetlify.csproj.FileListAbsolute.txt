@@ -644,9 +644,6 @@ C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\Release\net6.0\dist\w
 C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\bin\Release\net6.0\dist\wwwroot\_framework\blazor.boot.json
 C:\Users\bssm2020\Desktop\New folder\BlazorWasmNetlify\obj\Release\net6.0\build-gz\k3ltH1XM.gz
 C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\wwwroot\_framework\blazor.boot.json
-C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\dist\web.config
-C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\dist\wwwroot\sample-data\weather.json
-C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\dist\wwwroot\_framework\blazor.boot.json
 C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\BlazorWasmNetlify.StaticWebAssets.xml
 C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\BlazorWasmNetlify.dll
 C:\Users\bssm2020\Desktop\gihhub3\bin\Release\net6.0\ref\BlazorWasmNetlify.dll
@@ -1277,7 +1274,6 @@ C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\FLpcDC0U.gz
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\z6gkdqBr.gz
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\2Rxscqyk.gz
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\Jl0uog1U.gz
-C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\build-gz\V2z60R2S.gz
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\staticwebassets\BlazorWasmNetlify.StaticWebAssets.Manifest.cache
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\staticwebassets\BlazorWasmNetlify.StaticWebAssets.xml
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
@@ -1288,3 +1284,4 @@ C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.csproj.Co
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.dll
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\ref\BlazorWasmNetlify.dll
 C:\Users\bssm2020\Desktop\gihhub3\obj\Release\net6.0\BlazorWasmNetlify.pdb
+C:\Users\bssm2020\Desktop\gihhub3\obj\release\net6.0\build-gz\+SjLxAsN.gz
